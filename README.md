@@ -8,7 +8,7 @@ A cozy cooking game on a floating cloud island, made by KumoPlay. Cook pancakes,
 
 Play: <https://kumoplay.github.io/kumo-cafe/>
 
-More KumoPlay games: [Peek-a-Kumo](https://kumoplay.github.io/games/peek-a-kumo/), a cozy hidden-object game in a little town on the clouds, and [Kumo Farm](https://kumoplay.github.io/games/kumo-farm/). See them all at <https://kumoplay.github.io>.
+More KumoPlay games: [Bubble Pop](https://kumoplay.github.io/games/bubble-pop/), a cozy pocket fidget toy, [Peek-a-Kumo](https://kumoplay.github.io/games/peek-a-kumo/), a cozy hidden-object game in a little town on the clouds, and [Kumo Farm](https://kumoplay.github.io/games/kumo-farm/). See them all at <https://kumoplay.github.io>.
 
 ## Run it
 
