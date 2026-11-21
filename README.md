@@ -6,7 +6,9 @@ A cozy cooking game on a floating cloud island, made by KumoPlay. Cook pancakes,
 - No server, no accounts, no ads, no purchases, no links out, no data collection. Progress is saved in the player's own browser.
 - Cozy by design: a shift is a set number of guests, not a countdown. Guests never leave angry, food never burns, and every shift ends with at least one star. Relaxed mode (in Settings) stops patience from running down at all.
 
-Play: <https://kumoplay.github.io/kumo-cafe/> (once deployed)
+Play: <https://kumoplay.github.io/kumo-cafe/>
+
+More KumoPlay games: [Peek-a-Kumo](https://kumoplay.github.io/games/peek-a-kumo/), a cozy hidden-object game in a little town on the clouds, and [Kumo Farm](https://kumoplay.github.io/games/kumo-farm/). See them all at <https://kumoplay.github.io>.
 
 ## Run it
 
